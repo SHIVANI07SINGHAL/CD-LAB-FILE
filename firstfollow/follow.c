@@ -42,7 +42,7 @@ int main(int argc, char **argv)
 	strcpy(production[7], "F=i"); 
 	
 	int kay; 
-	char done[count]; 
+	char done [count]; 
 	int ptr = -1; 
 	
 	for(k = 0; k < count; k++) { 
